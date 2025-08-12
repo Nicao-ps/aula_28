@@ -1,0 +1,75 @@
+index,cisp,regiao,munic,roubo_veiculo,flag
+47,54,Baixada Fluminense,Belford Roxo,23967,mayors
+54,60,Baixada Fluminense,Duque de Caxias,19513,mayors
+53,59,Baixada Fluminense,Duque de Caxias,36274,mayors
+56,62,Baixada Fluminense,Duque de Caxias,8667,mayors
+46,53,Baixada Fluminense,Mesquita,8190,mayors
+51,57,Baixada Fluminense,Nilópolis,12257,mayors
+72,78,Grande Niterói,Niterói,8401,mayors
+50,56,Baixada Fluminense,Nova Iguaçu,11522,mayors
+45,52,Baixada Fluminense,Nova Iguaçu,15023,mayors
+52,58,Baixada Fluminense,Nova Iguaçu,15657,mayors
+25,29,Capital,Rio de Janeiro,15532,mayors
+24,28,Capital,Rio de Janeiro,10771,mayors
+23,27,Capital,Rio de Janeiro,26905,mayors
+22,26,Capital,Rio de Janeiro,7518,mayors
+21,25,Capital,Rio de Janeiro,10792,mayors
+20,24,Capital,Rio de Janeiro,11418,mayors
+19,23,Capital,Rio de Janeiro,10612,mayors
+18,22,Capital,Rio de Janeiro,14858,mayors
+17,21,Capital,Rio de Janeiro,19279,mayors
+16,20,Capital,Rio de Janeiro,8911,mayors
+13,17,Capital,Rio de Janeiro,7505,mayors
+26,30,Capital,Rio de Janeiro,12360,mayors
+27,31,Capital,Rio de Janeiro,14428,mayors
+40,44,Capital,Rio de Janeiro,14285,mayors
+36,40,Capital,Rio de Janeiro,18534,mayors
+35,39,Capital,Rio de Janeiro,28264,mayors
+34,38,Capital,Rio de Janeiro,19332,mayors
+33,37,Capital,Rio de Janeiro,7321,mayors
+31,35,Capital,Rio de Janeiro,18789,mayors
+30,34,Capital,Rio de Janeiro,27001,mayors
+29,33,Capital,Rio de Janeiro,17592,mayors
+28,32,Capital,Rio de Janeiro,7940,mayors
+67,73,Grande Niterói,São Gonçalo,13456,mayors
+66,72,Grande Niterói,São Gonçalo,13594,mayors
+68,74,Grande Niterói,São Gonçalo,17461,mayors
+69,75,Grande Niterói,São Gonçalo,9745,mayors
+58,64,Baixada Fluminense,São João de Meriti,31386,mayors
+115,132,Interior,Arraial do Cabo,54,minors
+140,158,Interior,Bom Jardim,21,minors
+127,144,Interior,Bom Jesus de Itabapoana,19,minors
+124,142,Interior,Cambuci,9,minors
+130,146,Interior,Campos dos Goytacazes;São Francisco de Itabapoana,31,minors
+135,153,Interior,Cantagalo,58,minors
+132,148,Interior,Cardoso Moreira;Italva,26,minors
+99,112,Interior,Carmo,48,minors
+136,154,Interior,Cordeiro;Macuco,21,minors
+134,152,Interior,Duas Barras,13,minors
+87,98,Interior,Engenheiro Paulo de Frontin,17,minors
+117,135,Interior,Itaocara,24,minors
+125,143,Interior,Itaperuna;São José de Ubá,63,minors
+126,143,Interior,Itaperuna;São José de Ubá;Cardoso Moreira;Italva,25,minors
+120,138,Interior,Laje do Muriaé,2,minors
+86,97,Interior,Mendes,23,minors
+85,96,Interior,Miguel Pereira;Paty dos Alferes,43,minors
+119,137,Interior,Miracema,6,minors
+122,140,Interior,Natividade;Varre-Sai,7,minors
+94,107,Interior,Paraíba do Sul,61,minors
+90,101,Interior,Pinheiral,43,minors
+83,94,Interior,Piraí;Pinheiral,53,minors
+121,139,Interior,Porciúncula,7,minors
+89,100,Interior,Porto Real;Quatis,85,minors
+145,168,Interior,Rio Claro,62,minors
+80,92,Interior,Rio das Flores,8,minors
+7,11,Capital,Rio de Janeiro,16,minors
+41,45,Capital,Rio de Janeiro,27,minors
+138,156,Interior,Santa Maria Madalena,47,minors
+118,136,Interior,Santo Antônio de Pádua;Aperibé,63,minors
+98,111,Interior,Sumidouro,39,minors
+123,141,Interior,São Fidélis,77,minors
+91,104,Interior,São José do Vale do Rio Preto,20,minors
+137,155,Interior,São Sebastião do Alto,29,minors
+139,157,Interior,Trajano de Morais,20,minors
+79,91,Interior,Valença,49,minors
+84,95,Interior,Vassouras,88,minors

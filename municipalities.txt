@@ -1,0 +1,92 @@
+﻿Municipalities:
+
+Angra dos Reis
+Araruama
+Armação dos Búzios
+Arraial do Cabo
+Barra Mansa
+Barra do Pirai
+Belford Roxo
+Bom Jardim
+Bom Jesus de Itabapoana
+Cabo Frio
+Cabo Frio;Arraial do Cabo
+Cachoeiras de Macacu
+Cambuci
+Campos dos Goytacazes
+Campos dos Goytacazes;São Francisco de Itabapoana
+Cantagalo
+Cardoso Moreira;Italva
+Carmo
+Casimiro de Abreu
+Comendador Levy Gasparian;Areal;Três Rios
+Conceição de Macabú
+Cordeiro;Macuco
+Duas Barras
+Duque de Caxias
+Engenheiro Paulo de Frontin
+Guapimirim
+Iguaba Grande
+Itaboraí
+Itaboraí;Tanguá
+Itaguaí
+Itaocara
+Itaperuna;São José de Ubá
+Itaperuna;São José de Ubá;Cardoso Moreira;Italva
+Itatiaia
+Japeri
+Laje do Muriaé
+Macaé
+Macaé;Quissamã;Carapebus
+Magé
+Magé;Guapimirim
+Mangaratiba
+Maricá
+Mendes
+Mesquita
+Miguel Pereira;Paty dos Alferes
+Miracema
+Natividade;Varre-Sai
+Nilópolis
+Niterói
+Nova Friburgo
+Nova Iguaçu
+Paracambi
+Paraty
+Paraíba do Sul
+Petrópolis
+Pinheiral
+Piraí
+Piraí;Pinheiral
+Porciúncula
+Porto Real;Quatis
+Queimados
+Queimados;Japeri
+Quissamã;Carapebus
+Resende
+Rio Bonito
+Rio Claro
+Rio das Flores
+Rio das Ostras
+Rio de Janeiro
+Santa Maria Madalena
+Santo Antônio de Pádua;Aperibé
+Sapucaia
+Saquarema
+Seropédica
+Silva Jardim
+Sumidouro
+São Fidélis
+São Francisco de Itabapoana
+São Gonçalo
+São José do Vale do Rio Preto
+São João da Barra
+São João de Meriti
+São Pedro da Aldeia
+São Sebastião do Alto
+Tanguá
+Teresópolis
+Trajano de Morais
+Valença
+Vassouras
+Volta Redonda

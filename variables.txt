@@ -1,0 +1,7 @@
+Variables:
+
+index
+cisp
+regiao
+munic
+roubo_veiculo
